@@ -1,5 +1,5 @@
 
-let message :string = 'Hello TYpeScrit';
+let message :string = 'Hello TypeScrit!!';
 console.log({message});
 
 

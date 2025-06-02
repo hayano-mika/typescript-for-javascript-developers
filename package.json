@@ -18,6 +18,8 @@
   "homepage": "https://github.com/hayano-mika/typescript-for-javascript-developers#readme",
   "description": "",
   "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsx": "^4.19.4",
     "typescript": "^5.8.3"
   }
 }

@@ -16,5 +16,8 @@
     "url": "https://github.com/hayano-mika/typescript-for-javascript-developers/issues"
   },
   "homepage": "https://github.com/hayano-mika/typescript-for-javascript-developers#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
 }
